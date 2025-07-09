@@ -1,4 +1,4 @@
-# Fine-Tuning on a Personal Dataset 🧠📸
+# Fine-Tuning on a Personal Dataset 
 
 This notebook demonstrates how to **fine-tune a pretrained deep learning model** on a **custom image dataset** using PyTorch. Ideal for tasks like image classification or domain adaptation when working with a small, personal dataset.
 
